@@ -1,8 +1,9 @@
 ####SDN- OpenVswitch:Routing using RYU controller and Link information gathering 
 
 ##### About the project
-1.Created a custom topology with an extra switch that connects two other switches.(This helps in routing the packets in an alternate direction if the links are down)
-2.Link status of all the links are captured and used for finding the shortest path for the flow of packets.
+1.Designed a custom network topology and developed python script for capturing network connectivity/reachability. 
+2.Modified and developed function in a script for finding shortest path in topology upon link failure or breakage. 
+3.Link status of all the links are captured and is used for finding the shortest path for the flow of packets.
 
 ##### For introduction of Openflow, OpenVswitch, use "http://archive.openflow.org/wk/index.php/OpenFlow_Tutorial" and "http://openvswitch.org/" respectively.
 
