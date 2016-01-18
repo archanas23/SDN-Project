@@ -1,7 +1,7 @@
 ### Dynamic Routing using RYU controller and Link information gathering 
 
 
-#### Steps to run the project
+##### Steps to run the project
 1. Install Mininet, use "http://mininet.org/" for further details
 2. Install RYU controller, for more information on RYU controller "https://media.readthedocs.org/pdf/ryu/latest/ryu.pdf"
 3. Place the custom_topology file within the custom folder of mininet.
